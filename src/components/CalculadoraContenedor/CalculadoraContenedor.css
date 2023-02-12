@@ -1,0 +1,15 @@
+.contenedor-calculadora {
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: rgb(114, 112, 112);
+    border-radius: 20px;
+    border: 5px solid white;
+}
+
+.fila {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
